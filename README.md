@@ -12,6 +12,7 @@ A document to record features of Angular that everyone must know.
  
 1. ### What is Angular?
 
+**[Back to top](#topics)
 2. ### What is NPM and use of NPM?
 
 3. ### What is Node_Modules?
