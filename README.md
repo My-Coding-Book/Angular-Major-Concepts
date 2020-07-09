@@ -14,11 +14,11 @@ A document to record features of Angular that everyone must know.
  
 1. ### What is Angular?
 
-	*Angular is a plarform and JavaScript framework to develop single page client side application.
-	*Angular is the upgraded version of AngularJS, developed by Google Co. which provide solution to the complexcity of developing a single page application.
-	*Angular is written/build using TypeScript. All its core and optional functionalities are written using TypeScript.
-	*It uses TypeScript to write businss logic while uses simple HTML and CSS to develop and design view.
-	*Applications developed using Angular are supported by all kind of devices, like Desktop, Laptop, Tablet, and Mobile views.
+	* Angular is a plarform and JavaScript framework to develop single page client side application.
+	* Angular is the upgraded version of AngularJS, developed by Google Co. which provide solution to the complexcity of developing a single page application.
+	* Angular is written/build using TypeScript. All its core and optional functionalities are written using TypeScript.
+	* It uses TypeScript to write businss logic while uses simple HTML and CSS to develop and design view.
+	* Applications developed using Angular are supported by all kind of devices, like Desktop, Laptop, Tablet, and Mobile views.
 
 **[Back to top](#topics)**
 
