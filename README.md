@@ -12,7 +12,7 @@ A document to record features of Angular that everyone must know.
 | 5 | [Can we write Angular application using JavaScript?](#can-we-write-angular-application-using-javascript) |
 
  
-1. ### What is Angular?
+### 1. What is Angular?
 
 	* Angular is a plarform and JavaScript framework to develop single page client side application.
 	* Angular is the upgraded version of AngularJS, developed by Google Co. which provide solution to the complexcity of developing a single page application.
@@ -22,10 +22,10 @@ A document to record features of Angular that everyone must know.
 
 **[Back to top](#topics)**
 
-2. ### What is NPM and use of NPM?
+### 2. What is NPM and use of NPM?
 
-3. ### What is Node_Modules?
+### 3. What is Node_Modules?
 
-4. ### Why Angular use TypeScript?
+### 4. Why Angular use TypeScript?
 
-5. ### Can we write Angular application using JavaScript?
+### 5. Can we write Angular application using JavaScript?
