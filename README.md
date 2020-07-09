@@ -1,6 +1,9 @@
-# Angular Major Concepts
+# Angular Basics but Important Concepts
 
-A document to record features of Angular.
-Lets start,
+A document to record features of Angular that everyone must know.
 
-1. 
+##Topics
+|1| [What is Angular?](#what-is-angular)
+
+ 
+1. ###What is Angular?
