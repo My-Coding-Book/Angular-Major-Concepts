@@ -27,7 +27,7 @@ A document to record features of Angular that everyone must know.
 
 	| Viewpoints | AngularJS | Angular |
 	| ---------- | --------- | ------- |
-	| Version | First version of Angular framework was realeased in 2012 by Misko Heverly (Employee of Google) at Brat Tech LLC. Current stable version is AngularJS 1.7.9. (March, 2020) | After the success of the 1st version Google is now supporting the Anguar and realeased a new framework from same team using TypeScript as the developing language in September, 2016.|
+	| Version | First version of Angular framework was realeased in 2012 by Misko Heverly (Employee of Google) at Brat Tech LLC. Current stable version is AngularJS 1.7.9. (March, 2020) | After the success of the 1st version Google is now supporting the Anguar and realeased a new framework from same team using TypeScript as the developing language in September, 2016. The latest active release is Angular 10.0.0. |
 	| Architecture |  |  |
 
 3. ### What is NPM and use of NPM?
