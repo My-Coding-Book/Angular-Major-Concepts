@@ -11,6 +11,7 @@ A document to record features of Angular that everyone must know.
 | 4 | [What is Node_Modules?](#what-is-node_modules) |
 | 5 | [Why Angular use TypeScript?](#why-angular-use-typescript) |
 | 6 | [Can we write Angular application using JavaScript?](#can-we-write-angular-application-using-javascript) |
+| 7 | |
 
  
 1. ### What is Angular?
