@@ -11,8 +11,10 @@
 | - | ----- | --- | --- | --- | --- |
 | 1 | [Angular CLI](#Angular-CLI) |  |  |  |  |
 | 2 | [NgModules](#NgModules) |  |  |  |  |
-|  | Components |  |  |  |  |
-| 3 |  | [Class](#Class) |  |  |  |
+| 3 | Components |  |  |  |  |
+|  | *i* | [Class](#Class) |  |  |  |
+|  | *ii* | [Template](#Template) |  |  |  |
+|  | *ii* | [Metadata](#Metadata) |  |  |  |
 
 
 
@@ -20,5 +22,16 @@
 
 
 ### NgModules
+
+
+### Components
+
+#### Class
+
+
+#### Template
+
+
+#### Metadata
 
 
