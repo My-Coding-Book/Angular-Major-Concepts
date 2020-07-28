@@ -24,32 +24,101 @@
 |  | *vi* | [Template Referance Variables](#Template-Referance-Variables) |  |  |  |
 | 5 | [Directive](#Directive) |  |  |  |  |
 |  | *i* | [Component](#Component) |  |  |  |
-|  | *ii* | [Structral](#Structral) |  |  |  |
+|  | *ii* | [Structral Directive](#Structral-Directive) |  |  |  |
+|  |  | *a* | [ngIf](#ngIf) |  |  |
+|  |  | *b* | [ngSwitch](#ngSwitch) |  |  |
+|  |  | *c* | [ngFor](#ngFor) |  |  |
+|  | *iii* | [Attribute Directives](#Attribute-Directives) |  |  |  |
+|  |  | *a* | [ngClass](#ngClass) |  |  |
+|  |  | *b* | [ngStyle](#ngStyle) |  |  |
+| 6 | [Component Styling](#Component-Styling) |  |  |  |
+|  | *i* | [Class Binding](#Class-Binding) |  |  |  |
+|  | *ii* | [Style Binding](#Style-Binding) |  |  |  |
+| 7 | [Component Interaction](#Component-Interaction) |  |  |  |
+|  | *i* | [Input](#Input) |  |  |  |
+|  | *ii* | [Output](#Output) |  |  |  |
+
+
+# Fundamentals
+
+## 1. Angular CLI
+
+
+## 2. NgModules
+
+
+## 3. Components
+
+### i. Class
+
+
+### ii. Template
+
+
+### iii. Metadata
 
 
 
-### Angular CLI
+## 4. Template Syntax
 
 
-### NgModules
+### i. Interpolation
 
 
-### Components
-
-#### Class
+### ii. Property Binding
 
 
-#### Template
+### iii. Event Binding
 
 
-#### Metadata
+### iv. Two Way Binding
 
 
-
-## Template Syntax
-
-
-### Class
+### v. Pipes
 
 
-### Template
+### vi. Template Referance Variables
+
+
+## 5. Directive
+
+
+### i. Component
+
+
+### ii. Structral Directives
+
+
+#### a. ngIf
+
+
+#### b. ngSwitch
+
+
+#### c. ngFor
+
+
+### iii. Attribute Directives
+
+
+#### a. ngClass
+
+
+#### b. ngStyle
+
+
+## 6. Component Styling
+
+### i. Class Binding
+
+
+### ii. Style Binding
+
+
+## 7. Component Styling
+
+### i. Input
+
+
+### ii. Output
+
