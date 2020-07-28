@@ -81,8 +81,20 @@
 |  |  | *e* | [FormBuilder Service](#FormBuilder-Service) |
 |  |  | *f* | [Validator Functions](#Validator-Functions) |
 |  |  | *g* | [FormArray](#FormArray) |
-|  |  | *h* | [ngSubmit](#ngSubmit) |
-
+|  |  | *h* | [Reactive Form ngSubmit](#Reactive-Form-ngSubmit) |
+| 5 | [Routing](#Routing) |  |  |
+|  | *i* | [RouterModule](#RouterModule) |  |
+|  | *ii* | [Configuring Routes](#Configuring-Routes) |  |
+|  | *iii* | [RouterOutlet](#RouterOutlet) |  |
+|  | *iv* | [routerLink](#routerLink) |  |
+|  | *v* | [Wildcard Routes](#Wildcard-Routes) |  |
+|  | *vi* | [Redirecting Routes](#Redirecting-Routes) |  |
+|  | *vii* | [Route Parameters](#Route-Parameters) |  |
+|  | *viii* | [Nested Routes](#Nested-Routes) |  |
+|  | *ix* | [Relative Paths](#Relative-Paths) |  |
+|  | *x* | [Lazy Loading Routes](#Lazy-Loading-Routes) |  |
+|  | *xi* | [Route Guards](#Route-Guards) |  |
+| 6 | [Animations](#Animations) |  |  |
 
 
 
@@ -283,4 +295,42 @@
 #### FormArray
 
 
-#### ngSubmit
+#### Reactive Form ngSubmit
+
+
+## Routing
+
+### RouterModule
+
+
+### Configuring Routes
+
+
+### RouterOutlet
+
+
+### routerLink
+
+
+### Wildcard Routes
+
+
+### Redirecting Routes
+
+
+### Route Parameters
+
+
+### Nested Routes
+
+
+### Relative Paths
+
+
+### Lazy Loading Routes
+
+
+### Route Guards
+
+
+## Animations
