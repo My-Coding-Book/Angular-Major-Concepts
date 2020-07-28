@@ -41,84 +41,84 @@
 
 # Fundamentals
 
-## 1. Angular CLI
+## Angular CLI
 
 
-## 2. NgModules
+## NgModules
 
 
-## 3. Components
+## Components
 
-### i. Class
-
-
-### ii. Template
+### Class
 
 
-### iii. Metadata
+### Template
+
+
+### Metadata
 
 
 
-## 4. Template Syntax
+## Template Syntax
 
 
-### i. Interpolation
+### Interpolation
 
 
-### ii. Property Binding
+### Property Binding
 
 
-### iii. Event Binding
+### Event Binding
 
 
-### iv. Two Way Binding
+### Two Way Binding
 
 
-### v. Pipes
+### Pipes
 
 
-### vi. Template Referance Variables
+### Template Referance Variables
 
 
-## 5. Directive
+## Directive
 
 
-### i. Component
+### Component
 
 
-### ii. Structral Directives
+### Structral Directives
 
 
-#### a. ngIf
+#### ngIf
 
 
-#### b. ngSwitch
+#### ngSwitch
 
 
-#### c. ngFor
+#### ngFor
 
 
-### iii. Attribute Directives
+### Attribute Directives
 
 
-#### a. ngClass
+#### ngClass
 
 
-#### b. ngStyle
+#### ngStyle
 
 
-## 6. Component Styling
+## Component Styling
 
-### i. Class Binding
-
-
-### ii. Style Binding
+### Class Binding
 
 
-## 7. Component Styling
-
-### i. Input
+### Style Binding
 
 
-### ii. Output
+## Component Styling
+
+### Input
+
+
+### Output
 
