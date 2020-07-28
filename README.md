@@ -4,6 +4,8 @@
 
 * [Fundamentals](#Fundamentals)
 
+* [Advanced Angular](#Advanced Angular)
+
 
 ## Fundamentals
 
@@ -37,6 +39,11 @@
 | 7 | [Component Interaction](#Component-Interaction) |  |  |  |
 |  | *i* | [Input](#Input) |  |  |  |
 |  | *ii* | [Output](#Output) |  |  |  |
+
+
+## Advanced Angular
+
+
 
 
 # Fundamentals
@@ -122,3 +129,8 @@
 
 ### Output
 
+
+## Lifecycle Methods
+
+
+# Advanced Angular
